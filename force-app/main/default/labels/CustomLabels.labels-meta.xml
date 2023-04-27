@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>label_999</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label 9999</shortDescription>
+        <value>dsad543167 dsad31398</value>
+    </labels>
+</CustomLabels>

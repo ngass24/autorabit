@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Joetest_Picklist__c</fullName>
+    <externalId>false</externalId>
+    <label>Joetest Picklist</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Trying</fullName>
+                <default>false</default>
+                <label>Trying</label>
+            </value>
+            <value>
+                <fullName>This Out</fullName>
+                <default>false</default>
+                <label>This Out</label>
+            </value>
+            <value>
+                <fullName>A Little</fullName>
+                <default>false</default>
+                <label>A Little</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
